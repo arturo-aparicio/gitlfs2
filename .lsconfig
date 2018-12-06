@@ -1,0 +1,2 @@
+[lfs]
+   url = "http://admin:password@mill.jfrog.team:12152/artifactory/api/lfs/gitlfs"
